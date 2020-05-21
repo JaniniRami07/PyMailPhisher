@@ -24,5 +24,5 @@ or educational purposes only as I am not responsible for any
 damage caused by PyMailPhisher.
 
 # Author:
-- Email: proxy07@tutanota.com
+- Email: pr0xy07@tutanota.com
 - Twitter : @pr0xy07
