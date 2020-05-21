@@ -1,8 +1,15 @@
-# PyMailPhisherssa
-- An OSINT Email Phishing Tool Build with Python3.
+# PyMailPhisher
+- PyMailPhisher is one of a few email phishers out there it
+works by generating a phishing html page that then will be
+sent as an email to your victim hoping they fall for it!
 
-# About:
-
+# Usage:
+```
+- git clone https://github.com/JaniniRami07/PyMailPhisher
+- python3 -m pip install -r requirements.txt
+- python3 PyMailPhisher.py
+```
+- Youtube video tutorial: https://www.youtube.com/watch?v=vJDV4aWrnI8&feature=youtu.be
 
 # Bugs & Help:
 If you find any bugs, issues in PyMailPhisher feel free to
