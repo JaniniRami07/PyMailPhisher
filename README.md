@@ -6,7 +6,6 @@ sent as an email to your victim hoping they fall for it!
 # Usage:
 ```
 - git clone https://github.com/JaniniRami07/PyMailPhisher
-- python3 -m pip install -r requirements.txt
 - python3 PyMailPhisher.py
 ```
 - Youtube video tutorial: https://www.youtube.com/watch?v=vJDV4aWrnI8&feature=youtu.be
