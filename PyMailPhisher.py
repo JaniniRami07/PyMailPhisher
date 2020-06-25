@@ -39,13 +39,12 @@ damage caused by PyMailPhisher.''' ))
 
 # Main PyMailPhisher fucntion
 def main_function():
-    print(os.path.isfile('Templates/Generated_Emails'))
     if os.path.isdir('Templates/Generated_Emails') == False:
         os.mkdir('Templates/Generated_Emails')
     else:
         None
 
-    #print (u"{}[2J{}[;H".format(chr(27), chr(27)))     # Clear the terminal
+    print (u"{}[2J{}[;H".format(chr(27), chr(27)))     # Clear the terminal
     print(style.RESET("-- PyMailPhisher Main Menu --"))
     print(style.GREEN('\n[1]') + style.RESET(' Generate a phishing page.'))
     print(style.GREEN('[2]') + style.RESET(' Send a phishing email.'))
