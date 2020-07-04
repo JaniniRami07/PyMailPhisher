@@ -26,3 +26,4 @@ damage caused by PyMailPhisher.
 # Author:
 - Email: pr0xy07@tutanota.com
 - Twitter : @pr0xy07
+- Bitcoin Donations: 17qychS2gBAN6VPMq9ooj9EBD3CFTCFEKC
