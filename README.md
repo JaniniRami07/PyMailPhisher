@@ -23,7 +23,3 @@ You should only use this app for legal penetration testing
 or educational purposes only as I am not responsible for any
 damage caused by PyMailPhisher.
 
-# Author:
-- Email: pr0xy07@tutanota.com
-- Twitter : @pr0xy07
-- Bitcoin Donations: 17qychS2gBAN6VPMq9ooj9EBD3CFTCFEKC
